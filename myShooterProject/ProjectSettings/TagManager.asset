@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+<<<<<<< HEAD
+  tags:
+  - Target
+  - Wall
+=======
+  tags: []
+>>>>>>> f595d60fbc689f486eaa3b19f930a7df87670e2c
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+<<<<<<< HEAD
+  - Target
+=======
+  - 
+>>>>>>> f595d60fbc689f486eaa3b19f930a7df87670e2c
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+<<<<<<< HEAD
+  - WeaponRender
+=======
+>>>>>>> f595d60fbc689f486eaa3b19f930a7df87670e2c
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+<<<<<<< HEAD
+  - myUI
+=======
+  - 
+  - 
+>>>>>>> f595d60fbc689f486eaa3b19f930a7df87670e2c
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+<<<<<<< HEAD
+  - name: myLayer
+    uniqueID: 2530275073
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2973490047
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3568889047
+    locked: 0
+=======
+>>>>>>> f595d60fbc689f486eaa3b19f930a7df87670e2c

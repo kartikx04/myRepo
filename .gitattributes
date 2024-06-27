@@ -1,0 +1,3 @@
+myShooterProject/Library/Artifacts/59/5936d95759efb9d813a9d4275a32718f filter=lfs diff=lfs merge=lfs -text
+myShooterProject/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+myShooterProject/Library/Artifacts/24/2473d3b9d059ae846fa3cb7678733f78 filter=lfs diff=lfs merge=lfs -text
